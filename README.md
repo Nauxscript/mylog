@@ -1,0 +1,2 @@
+# mylog
+My daily log.
